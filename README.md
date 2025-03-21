@@ -1,23 +1,18 @@
-# Portfolio Projects
+# Портфолио проектов
 
-Коллекция моих Python проектов:
+Коллекция моих Python проектов
 
-## Avito Car Monitor Bot
+## Проекты
+
+### Avito Car Monitor Bot
 Telegram бот для мониторинга новых объявлений о продаже автомобилей на Avito.
-- Python, Telegram API, BeautifulSoup, SQLite
-- [Перейти к проекту](./avito-car-bot)
+- [Подробнее](avito-car-bot/README.md)
+- Технологии: Python, python-telegram-bot, BeautifulSoup4, SQLite
 
-## Weather & Currency Bot
-Telegram бот для получения информации о погоде и курсах валют.
-- Python, Telegram API, OpenWeatherMap API, ЦБ РФ API
-- [Перейти к проекту](./telegram-bot)
+## Установка
 
-## HeadHunter Parser
-Парсер вакансий с HeadHunter с использованием API.
-- Python, Requests, Pandas
-- [Перейти к проекту](./data-parser)
+Каждый проект содержит свой файл requirements.txt с необходимыми зависимостями.
 
-## PDF Resume Generator
-Автоматический генератор PDF-резюме.
-- Python, ReportLab
-- [Перейти к проекту](./pdf-resume-generator)
+## Лицензия
+
+MIT
